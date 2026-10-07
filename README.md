@@ -39,7 +39,6 @@ Python: NLTK (tokenizing, word frequency), TextBlob (polarity and subjectivity),
 ## Key insights
 - Self-awareness is the largest category, about 78% of stanzas on average.
 - Reinforce is more common than challenge (42% vs 29% of a song's stanzas). The most common combination is reinforce + self-awareness (33%), then challenge + self-awareness (21%).
-- Songs with more complex combinations are more likely to challenge stereotypes.
 - Two patterns: songs that move from reinforcing to challenging (Hot Stuff, where sentiment also shifts from negative to positive), and songs that hold both at once.
 - Conclusion: disco lyrics show duality. Self-awareness is how singers show agency inside limited autonomy, whether they challenge a norm or accept it.
 
