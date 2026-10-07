@@ -17,7 +17,7 @@ Disco grew out of Black and LGBTQ+ communities in 1970s New York clubs, and it i
 3. What role does self-awareness play in disco?
 
 ## My role
-I chose the songs, read and coded every stanza by hand, built the visualizations and wrote the paper. I used Claude Code as a coding assistant for the later cleanup.
+I chose the songs and coded every stanza by hand. I built the visualizations and wrote the paper. I used Claude Code as a coding assistant for the later cleanup.
 
 ## Data
 - 40 songs from the Spotify playlist "Queens of Disco" (female disco singers), split into 295 stanzas.
@@ -41,7 +41,6 @@ Python: NLTK (tokenizing, word frequency), TextBlob (polarity and subjectivity),
 - Reinforce is more common than challenge (42% vs 29% of a song's stanzas). The most common combination is reinforce + self-awareness (33%), then challenge + self-awareness (21%).
 - Two patterns: songs that move from reinforcing to challenging (Hot Stuff, where sentiment also shifts from negative to positive), and songs that hold both at once.
 - Conclusion: disco lyrics show duality. Self-awareness is how singers show agency inside limited autonomy, whether they challenge a norm or accept it.
-
 
 ## Business impact
 This is a course project with no deployment. What it shows is a small, careful qualitative coding workflow with a transparent label scheme, which is the same skill used for tagging customer comments or reviews.
